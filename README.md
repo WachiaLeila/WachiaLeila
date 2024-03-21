@@ -18,8 +18,8 @@ I am a software engineer ready to draw ideas to real life solutions.
 
 ## Github Stats
 
-<a href="https://github-contributor-stats.vercel.app/api?username=WachiaLeila&limit=5&theme=dark&combine_all_yearly_contributions=true">
-  <img src="https://github-contributor-stats.vercel.app/api?username=WachiaLeila&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Wachia Leila" />
+<a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=WachiaLeila&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Henry Kimani" />
 </a>
 
 
