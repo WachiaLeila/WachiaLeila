@@ -18,9 +18,10 @@ I am a software engineer ready to draw ideas to real life solutions.
 
 ## Github Stats
 
-<a>
+<a href="https://github-contributor-stats.vercel.app/api?username=WachiaLeila&limit=5&theme=dark&combine_all_yearly_contributions=true">
   <img src="https://github-contributor-stats.vercel.app/api?username=WachiaLeila&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Wachia Leila" />
 </a>
+
 
 ![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=WachiaLeila&theme=dark&hide_border=false)
 
